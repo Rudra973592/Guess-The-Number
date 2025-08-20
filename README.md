@@ -9,4 +9,5 @@ A simple Python game where the player has to guess a random number between **1 a
    cd guess-the-number
 
 2.Run the game:
+   ```bash
    python Guess_The_number.py
