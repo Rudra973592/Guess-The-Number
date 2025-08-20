@@ -5,8 +5,8 @@ A simple Python game where the player has to guess a random number between **1 a
 ## How to Play
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Rudra973592/guess-the-number.git
-   cd guess-the-number
+   git clone https://github.com/Rudra973592/Guess-The-Number.git
+   cd Guess-The-Number
 
 2.Run the game:
    ```bash
