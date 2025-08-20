@@ -7,3 +7,6 @@ A simple Python game where the player has to guess a random number between **1 a
    ```bash
    git clone https://github.com/Rudra973592/guess-the-number.git
    cd guess-the-number
+
+2.Run the game:
+   python Guess_The_number.py
